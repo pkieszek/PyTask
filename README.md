@@ -49,19 +49,16 @@ python3 main.py
 - Eksportuję listę zadań do pliku CSV.
 
 ## Menu i opcje
-Po uruchomieniu programu masz do dyspozycji następujące opcje:
-- **1. Dodaj zadanie** – wprowadź opis i priorytet nowego zadania.
-- **2. Wyświetl zadania** – pokaż wszystkie lub tylko aktywne zadania, z opcją sortowania i filtrowania.
-- **3. Edytuj zadanie** – zmodyfikuj opis lub priorytet istniejącego zadania.
-- **4. Oznacz zadanie jako wykonane** – wybierz zadanie do oznaczenia jako zakończone.
-- **5. Usuń zadanie** – usuń wybrane zadanie z listy.
-- **6. Wyszukaj zadania** – znajdź zadania zawierające określone słowo kluczowe.
-- **7. Cofnij ostatnią operację** – przywróć poprzedni stan listy zadań.
-- **8. Usuń wszystkie wykonane zadania** – usuń zadania oznaczone jako wykonane.
-- **9. Zresetuj listę zadań** – usuń wszystkie zadania.
-- **10. Eksportuj zadania do CSV** – zapisz listę zadań do pliku CSV.
-- **11. Zapisz zmiany** – zapisz aktualny stan zadań do pliku JSON.
-- **12. Wyjdź** – zakończ działanie programu.
+Po uruchomieniu programu masz do dyspozycji następujące opcje (zgodnie z menu w programie):
+
+1. **Dodaj zadanie** – dodaj nowe zadanie, podając opis i priorytet.
+2. **Pokaż wszystkie zadania** – wyświetl całą listę zadań.
+3. **Pokaż tylko aktywne** – wyświetl tylko zadania, które nie zostały oznaczone jako wykonane.
+4. **Oznacz jako wykonane** – wybierz zadanie do oznaczenia jako wykonane.
+5. **Sortuj/Filtruj zadania** – sortuj lub filtruj zadania według wybranych kryteriów (np. priorytet, status).
+6. **Edytuj zadanie** – zmień opis lub priorytet wybranego zadania.
+7. **Usuń zadanie** – usuń wybrane zadanie z listy.
+8. **Zapisz i wyjdź** – zapisz wszystkie zmiany i zakończ działanie programu.
 
 ## Przykład działania
 ```
