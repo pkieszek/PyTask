@@ -1,6 +1,6 @@
 # PyTask 📝
 
-**Prosty menedżer zadań w Pythonie, który stworzyłem.**
+**Prosty menedżer zadań w Pythonie**
 
 ## Opis projektu
 PyTask to lekki i intuicyjny menedżer zadań napisany przeze mnie w Pythonie, który umożliwia zarządzanie codziennymi zadaniami w terminalu. Projekt został rozszerzony o funkcje takie jak kolorowanie terminala dla lepszej czytelności statusów i priorytetów, logowanie działań użytkownika do pliku logów, sortowanie i filtrowanie zadań według różnych kryteriów, a także możliwość edycji i usuwania zadań.
