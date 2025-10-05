@@ -32,21 +32,16 @@ python3 main.py
 ```
 
 ## Funkcjonalności
-- Dodaję nowe zadania z przypisanym priorytetem.
-- Oznaczam zadania jako wykonane.
-- Wyświetlam listę wszystkich zadań lub tylko aktywnych.
-- Sortuję zadania według priorytetu lub daty dodania.
-- Filtruję zadania według statusu lub priorytetu.
-- Edytuję istniejące zadania (zmieniam opis, priorytet).
-- Usuwam zadania.
-- Zapisuję i odczytuję dane z pliku JSON.
-- Koloruję terminal dla lepszej czytelności statusów i priorytetów.
-- Loguję działania użytkownika do pliku logów.
-- Cofam ostatnią operację (undo).
-- Wyszukuję zadania po słowie kluczowym w opisie.
-- Usuwam wszystkie zadania oznaczone jako wykonane.
-- Resetuję listę zadań (usuwam wszystkie).
-- Eksportuję listę zadań do pliku CSV.
+- Dodawanie nowych zadań z opisem i priorytetem.
+- Wyświetlanie wszystkich zadań.
+- Wyświetlanie tylko aktywnych (niezakończonych) zadań.
+- Oznaczanie wybranego zadania jako wykonane.
+- Sortowanie i filtrowanie zadań według priorytetu/statusu.
+- Edycja istniejących zadań (opis i priorytet).
+- Usuwanie wybranego zadania.
+- Zapisywanie i odczytywanie zadań z pliku JSON.
+- Kolorowanie terminala (priorytety, statusy).
+- Logowanie działań użytkownika do pliku logów.
 
 ## Menu i opcje
 Po uruchomieniu programu masz do dyspozycji następujące opcje (zgodnie z menu w programie):
@@ -64,17 +59,13 @@ Po uruchomieniu programu masz do dyspozycji następujące opcje (zgodnie z menu 
 ```
 Witaj w PyTask!
 1. Dodaj zadanie
-2. Wyświetl zadania
-3. Edytuj zadanie
-4. Oznacz zadanie jako wykonane
-5. Usuń zadanie
-6. Wyszukaj zadania
-7. Cofnij ostatnią operację
-8. Usuń wszystkie wykonane zadania
-9. Zresetuj listę zadań
-10. Eksportuj zadania do CSV
-11. Zapisz zmiany
-12. Wyjdź
+2. Pokaż wszystkie zadania
+3. Pokaż tylko aktywne
+4. Oznacz jako wykonane
+5. Sortuj/Filtruj zadania
+6. Edytuj zadanie
+7. Usuń zadanie
+8. Zapisz i wyjdź
 Wybierz opcję: 1
 
 Podaj opis zadania: Zrobić zakupy
@@ -90,8 +81,8 @@ Wybierz opcję: 4
 Podaj numer zadania do oznaczenia jako wykonane: 1
 Zadanie oznaczone jako wykonane.
 
-Wybierz opcję: 12
-Do zobaczenia!
+Wybierz opcję: 8
+Zmiany zapisane. Do zobaczenia!
 ```
 
 ## Logi
