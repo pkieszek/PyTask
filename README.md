@@ -298,6 +298,7 @@ Projekt edukacyjny - wolne użycie.
 
 ## 👨‍💻 Autor
 
+Patryk Kieszek. 
 Projekt stworzony jako zaliczenie przedmiotu z programowania w Pythonie.
 
 ## 🔮 Możliwe Rozszerzenia
