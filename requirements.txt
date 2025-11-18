@@ -1,1 +1,12 @@
+# PyTask - Wymagane biblioteki
+# Instalacja: pip install -r requirements.txt
+
+# Kolorowy output w konsoli (Windows, macOS, Linux)
 colorama==0.4.6
+
+# Uwaga: Pozostałe moduły są częścią Python Standard Library:
+# - json (operacje JSON)
+# - os (operacje na plikach)
+# - re (wyrażenia regularne/regex)
+# - datetime (znaczniki czasu)
+# - logging (system logowania)
